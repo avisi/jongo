@@ -105,7 +105,7 @@ function __main() {
                 test_app "${target_branch}"
             ;;
             TEST_RELEASE_FLOW)
-                source "${JONGO_BASE_DIR}/src/test/sh/test-tasks.sh"
+                source "${JONGO_BASE_DIR}/bin/lib/test/test-tasks.sh"
                 run_test_suite "${target_branch}"
             ;;
             *)
