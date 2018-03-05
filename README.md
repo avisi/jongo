@@ -1,4 +1,4 @@
-| Temporary fork to release fixed version based on 1.4.0 to own artifact manager
+> Temporary fork to release fixed version based on 1.4.0 to own artifact manager
 
 <img src="https://github.com/bguerout/jongo/raw/gh-pages/assets/img/jongo_big.png" alt="Jongo logo" title="Jongo" align="right">
 
